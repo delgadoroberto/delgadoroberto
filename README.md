@@ -15,7 +15,7 @@ I help organizations improve their security posture by identifying vulnerabiliti
 - Security Analysis & Control Improvement
 - Vulnerability Management & Remediation
 - Infrastructure & Cloud Security
-- Identity & Access Management (IAM)
+- Identity & Access Management (IAM) aligned with Zero Trust principles
 - Security Assessments & Technical Reviews
 
 ---
