@@ -56,7 +56,7 @@ IT Risk Analyst
 
 - Cloud Security
 - Infrastructure Security
-- Identity & Access Management aligned with Zero Trust principles
+- Identity & Access Management (IAM) aligned with Zero Trust principles
 - Vulnerability Management Programs
 - Security Control Frameworks
 
