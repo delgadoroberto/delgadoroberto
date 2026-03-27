@@ -1,84 +1,80 @@
 # 🔐 Roberto | Cybersecurity Consultant
 
-Cybersecurity professional specializing in Governance, Risk & Compliance (GRC), with hands-on experience in vulnerability management, security controls, and cloud security foundations.
+Cybersecurity professional specializing in security analysis and vulnerability management, with strong experience in security controls and cloud environments.
 
 ---
 
 ## 🧭 Profile
 
-I help organizations design, implement, and improve cybersecurity programs aligned with industry standards and regulatory requirements.
-
-My experience combines:
-- Strategic security (governance, frameworks, compliance)
-- Technical security (vulnerabilities, controls, infrastructure)
+I help organizations improve their security posture by identifying vulnerabilities, strengthening controls, and reducing risk. My approach combines hands-on technical experience with a practical and results-driven mindset.
 
 ---
 
 ## ⚙️ Core Expertise
 
-- Governance, Risk & Compliance (GRC)
-- Security Standards Implementation
+- Security Analysis & Control Improvement
 - Vulnerability Management & Remediation
-- Security Assessments & Audits
+- Infrastructure & Cloud Security
 - Identity & Access Management (IAM)
+- Security Assessments & Technical Reviews
 
 ---
 
-## 📚 Frameworks & Methodologies
+## 🛠️ Technical Capabilities
 
-- ISO 27001
-- NIST Cybersecurity Framework
-- CIS Controls
-- SOX Compliance
-- C2M2
+- Implementation and improvement of security controls
+- Vulnerability analysis and remediation strategies
+- Hardening of systems and infrastructure
+- Access control and identity governance
+- Risk-based security decision making
 
 ---
 
 ## 💼 Experience Highlights
 
 **KPMG Argentina**  
-Senior Cybersecurity Consultant 
-- Developed and implemented security standards (CIS, NIST, ISO 27001)
-- Vulnerability and critical patch management
-- Supported SOX compliance and audit remediation
-- Strengthened security controls across organizations 
+Senior Cybersecurity Consultant  
+- Implemented and validated security controls across enterprise environments  
+- Led vulnerability remediation initiatives and control enforcement  
+- Supported compliance through technical control improvements  
 
 **Deloitte Argentina**  
 Senior IT Security Consultant  
-- Executed cybersecurity maturity assessments
-- Vulnerability and critical patch management  
-- Applied frameworks such as C2M2 and internal frameworks  
-- Supported security transformation initiatives  
+- Performed technical security assessments across infrastructure and systems  
+- Identified vulnerabilities and recommended remediation strategies  
+- Contributed to security transformation projects  
 
 **Cordial Compañía Financiera**  
 IT Risk Analyst  
-- Managed access control and user provisioning  
-- Implemented encryption solutions  
-- Supported ISO 27001 compliance  
+- Managed access control and user provisioning processes  
+- Implemented encryption and data protection mechanisms  
+- Strengthened security controls aligned with industry standards  
 
 ---
 
-## ☁️ Technical Focus
+## ☁️ Technical Focus Areas
 
-- Cloud Security Fundamentals
-- Access Control & Identity Management
-- Risk-Based Security Approach
-- Security Control Design & Validation
+- Cloud Security
+- Infrastructure Security
+- Identity & Access Management aligned with Zero Trust principles
+- Vulnerability Management Programs
+- Security Control Frameworks
 
 ---
 
-## 📈 Current Focus
+## 📈 Current Work
 
-- Advancing in Cloud Security
-- Automating tasks with Bash & Python
-- Strengthening technical depth in cybersecurity engineering
+- Advancing in cloud security and architecture
+- Automating security tasks with Bash and Python
+- Building hands-on cybersecurity labs and projects
+- Strengthening technical capabilities in security engineering
 
 ---
 
 ## 📜 Certifications
 
-- SC-900 – Microsoft Security Fundamentals  
-- SC-300 – Identity and Access Administrator
+- SC-900 – Microsoft Certified: Security, Compliance, and Identity Fundamentals  
+- SC-300 – Microsoft Certified: Identity and Access Administrator Associate  
 
 ---
 
@@ -89,6 +85,6 @@ IT Risk Analyst
 
 ---
 
-## 🧠 Mindset
+## 🧠 Philosophy
 
-Security is not only about protection, but about enabling the business with controlled and measurable risk.
+Effective security is built through strong technical controls, continuous improvement, and a deep understanding of risk.
