@@ -72,9 +72,9 @@ IT Risk Analyst
 ---
 
 ## 📜 Certifications
-
-- SC-900 – Microsoft Certified: Security, Compliance, and Identity Fundamentals  
-- SC-300 – Microsoft Certified: Identity and Access Administrator Associate  
+ 
+- *[SC-900 – Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/users/robertodelgado-8952/credentials/9364a6cc0a1e8dd5?ref=https%3A%2F%2Fwww.linkedin.com%2F)*
+- *[SC-300 – Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/users/robertodelgado-8952/credentials/efdd686ac59ed1ba)*
 
 ---
 
