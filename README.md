@@ -1,4 +1,4 @@
-# 🔐 Roberto | Cybersecurity Consultant
+# 🔐 Roberto Delgado | Cybersecurity Consultant
 
 Cybersecurity professional specializing in security analysis and vulnerability management, with strong experience in security controls and cloud environments.
 
@@ -80,7 +80,7 @@ IT Risk Analyst
 
 ## 🔗 Connect
 
-- LinkedIn: *([Roberto Delgado](https://www.linkedin.com/in/robertodelgadopistan/))*
+- LinkedIn: *([Roberto Delgado](https://www.linkedin.com/in/delgado-roberto/))*
 - GitHub: https://github.com/delgadoroberto
 
 ---
