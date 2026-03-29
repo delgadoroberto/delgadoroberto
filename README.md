@@ -71,17 +71,17 @@ IT Risk Analyst
 
 ---
 
-## 📜 Certifications
- 
-- *[SC-900 – Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/users/robertodelgado-8952/credentials/9364a6cc0a1e8dd5?ref=https%3A%2F%2Fwww.linkedin.com%2F)*
-- *[SC-300 – Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/users/robertodelgado-8952/credentials/efdd686ac59ed1ba)*
+## 📜 Professional Certifications
+
+[![SC-300](https://img.shields.io/badge/Microsoft-SC--300-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/robertodelgado-8952/credentials/efdd686ac59ed1ba)
+
+[![SC-900](https://img.shields.io/badge/Microsoft-SC--900-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/robertodelgado-8952/credentials/9364a6cc0a1e8dd5)
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect with me
 
-- LinkedIn: *([Roberto Delgado](https://www.linkedin.com/in/delgado-roberto/))*
-- GitHub: https://github.com/delgadoroberto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delgado-roberto/)
 
 ---
 
