@@ -1,7 +1,6 @@
-# 🔐 Roberto Delgado | Cybersecurity Consultant
+# ☁️♾️ Roberto Delgado | Cybersecurity Specialist 
 
-Cybersecurity professional specializing in security analysis and vulnerability management, with strong experience in security controls and cloud environments.
-
+Cybersecurity specialist focused on vulnerability management and cloud security, with deep experience in technical security controls.
 ---
 
 ## 🧭 Profile
@@ -55,6 +54,7 @@ IT Risk Analyst
 ## ☁️ Technical Focus Areas
 
 - Cloud Security
+- DevSecOps
 - Infrastructure Security
 - Identity & Access Management (IAM) aligned with Zero Trust principles
 - Vulnerability Management Programs
