@@ -71,14 +71,6 @@ IT Risk Analyst
 
 ---
 
-## 📜 Professional Certifications
-
-[![SC-300](https://img.shields.io/badge/Microsoft-SC--300-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/robertodelgado-8952/credentials/efdd686ac59ed1ba)
-
-[![SC-900](https://img.shields.io/badge/Microsoft-SC--900-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/robertodelgado-8952/credentials/9364a6cc0a1e8dd5)
-
----
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delgado-roberto/)
