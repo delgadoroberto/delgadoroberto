@@ -1,4 +1,4 @@
-# ☁️♾️ Roberto Delgado | Cybersecurity Specialist 
+# 💻 Roberto Delgado | Cybersecurity Specialist 🛡️
 
 Cybersecurity specialist focused on vulnerability management and cloud security, with deep experience in technical security controls.
 ---
