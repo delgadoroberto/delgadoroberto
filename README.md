@@ -1,8 +1,10 @@
-# 👋 Hi there! I'm Roberto Delgado
+# 👋 Hi there!
 
-I am a **Cybersecurity Specialist** based in Argentina, currently focused on scaling security through **DevSecOps** and automation. I specialize in building practical, automation‑driven solutions—ranging from secure CI/CD pipelines and cloud hardening in **Azure** to IaC scanning and automated security workflows. 
+I'm Roberto Delgado, a Cybersecurity Specialist based in Argentina.
 
-My expertise lies at the intersection of security and engineering, where I focus on integrating robust security controls into the **SDLC** without slowing down development. I enjoy translating complex security requirements into simple, scalable, and developer‑friendly implementations, while constantly expanding my toolkit in **cloud-native environments** and **container security**[cite: 1].
+I’m currently expanding my DevSecOps capabilities through hands‑on work in secure CI/CD pipelines, cloud hardening (Azure), IaC scanning, and automated security workflows. My background combines enterprise security, application security, and cloud technologies, with a strong focus on integrating security into engineering processes without slowing down development.
+
+I work on building practical, automation‑driven security solutions—ranging from pipeline security controls to cloud policy enforcement and vulnerability management workflows. I enjoy translating complex security requirements into simple, scalable, developer‑friendly implementations.
 
 ---
 
@@ -32,5 +34,8 @@ My expertise lies at the intersection of security and engineering, where I focus
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## 🐧 Operating Systems
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
