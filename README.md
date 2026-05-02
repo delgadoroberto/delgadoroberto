@@ -1,82 +1,29 @@
-# 💻 Roberto Delgado | Cybersecurity Specialist 🛡️
+# 👋 Hi there!
+I'm Roberto Delgado, a Cybersecurity Specialist based in Argentina.
 
-Cybersecurity specialist focused on vulnerability management and cloud security, with deep experience in technical security controls.
----
+I’m currently strengthening my DevSecOps skillset through hands‑on projects focused on secure CI/CD pipelines, cloud hardening (Azure), IaC scanning, and automated security workflows. My background combines enterprise security, application security, and cloud technologies, with a strong focus on integrating security into engineering processes without slowing down development.
 
-## 🧭 Profile
-
-I help organizations improve their security posture by identifying vulnerabilities, strengthening controls, and reducing risk. My approach combines hands-on technical experience with a practical and results-driven mindset.
+I work on building practical, automation‑driven security solutions—ranging from pipeline security controls to cloud policy enforcement and vulnerability management workflows. I enjoy translating complex security requirements into simple, scalable, developer‑friendly implementations.
 
 ---
 
-## ⚙️ Core Expertise
-
-- Security Analysis & Control Improvement
-- Vulnerability Management & Remediation
-- Infrastructure & Cloud Security
-- Identity & Access Management (IAM) aligned with Zero Trust principles
-- Security Assessments & Technical Reviews
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delgado-roberto/)
 
 ---
 
-## 🛠️ Technical Capabilities
-
-- Implementation and improvement of security controls
-- Vulnerability analysis and remediation strategies
-- Hardening of systems and infrastructure
-- Access control and identity governance
-- Risk-based security decision making
-
----
-
-## 💼 Experience Highlights
-
-**KPMG Argentina**  
-Senior Cybersecurity Consultant  
-- Implemented and validated security controls across enterprise environments  
-- Led vulnerability remediation initiatives and control enforcement  
-- Supported compliance through technical control improvements  
-
-**Deloitte Argentina**  
-Senior IT Security Consultant  
-- Performed technical security assessments across infrastructure and systems  
-- Identified vulnerabilities and recommended remediation strategies  
-- Contributed to security transformation projects  
-
-**Cordial Compañía Financiera**  
-IT Risk Analyst  
-- Managed access control and user provisioning processes  
-- Implemented encryption and data protection mechanisms  
-- Strengthened security controls aligned with industry standards  
-
----
-
-## ☁️ Technical Focus Areas
-
-- Cloud Security
-- DevSecOps
-- Infrastructure Security
-- Identity & Access Management (IAM) aligned with Zero Trust principles
-- Vulnerability Management Programs
-- Security Control Frameworks
-
----
-
-## 📈 Current Work
-
-- Advancing in cloud security and architecture
-- Automating security tasks with Bash and Python
-- Building hands-on cybersecurity labs and projects
-- Strengthening technical capabilities in security engineering
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delgado-roberto/)
-
----
-
-## 🧠 Philosophy
-
-Effective security is built through strong technical controls, continuous improvement, and a deep understanding of risk.
+# 💻 Tech Stack
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
