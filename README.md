@@ -4,7 +4,7 @@ I'm Roberto Delgado, a Cybersecurity Engineer focused on Cloud Security and DevS
 
 I design and implement secure CI/CD pipelines, cloud hardening strategies (Azure), Infrastructure as Code (IaC) security controls, and automated security workflows. My background combines enterprise security, application security, and cloud technologies, with a strong focus on integrating security into engineering processes without slowing down development.
 
-I work on building practical, automation-driven security solutions—ranging from pipeline security controls to cloud policy enforcement and vulnerability management workflows. I enjoy translating complex security requirements into simple, scalable, developer-friendly implementations.
+I work on building practical, automation-driven security solutions, ranging from pipeline security controls to cloud policy enforcement and vulnerability management workflows. I enjoy translating complex security requirements into simple, scalable, developer-friendly implementations.
 
 ---
 
