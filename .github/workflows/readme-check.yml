@@ -1,0 +1,31 @@
+name: Profile README Checks
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  markdown-check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Validate README exists
+      run: test -f README.md
+
+    - name: Basic secret scan
+      run: |
+        if grep -R \
+          --exclude-dir=.git \
+          --exclude-dir=.github \
+          -E "password|apikey" .; then
+          echo "Potential secret found!"
+          exit 1
+        fi
+
+    - name: Markdown preview
+      run: echo "README validation completed successfully"
