@@ -1,10 +1,16 @@
-# 👋 Hi there!
+# 👋 Hi there, I'm Roberto Delgado
 
-I'm Roberto Delgado, a Cybersecurity Engineer focused on Cloud Security and DevSecOps.
+<p align="center">
 
-I design and implement secure CI/CD pipelines, cloud hardening strategies (Azure), Infrastructure as Code (IaC) security controls, and automated security workflows. My background combines enterprise security, application security, and cloud technologies, with a strong focus on integrating security into engineering processes without slowing down development.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=16C7C7&center=true&vCenter=true&width=900&lines=Senior+Cybersecurity+Consultant;Infrastructure+Security+%26+Cloud+Security;DevSecOps+%26+Security+Automation;Security+Governance+%26+Vulnerability+Management" />
 
-I work on building practical, automation-driven security solutions ranging from pipeline security controls to cloud policy enforcement and vulnerability management workflows. I enjoy translating complex security requirements into scalable, developer-friendly implementations.
+</p>
+
+Cybersecurity professional with experience supporting enterprise environments across infrastructure security, cloud security posture improvement, vulnerability management, governance, compliance-aligned security controls, and infrastructure hardening.
+
+Currently expanding hands-on expertise through personal projects and security labs focused on DevSecOps, CI/CD security, infrastructure-as-code security, cloud hardening, and security automation.
+
+Strong interest in building scalable and practical security solutions that integrate security into modern engineering and cloud environments.
 
 ---
 
@@ -13,15 +19,15 @@ I work on building practical, automation-driven security solutions ranging from 
 <p align="center">
 
 <a href="https://delgadoroberto.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity_CV-0F172A?style=for-the-badge&logo=readme&logoColor=white">
+</a>
+
+<a href="https://github.com/delgadoroberto/delgadoroberto.github.io">
+  <img src="https://img.shields.io/badge/Website_Repository-24292F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/delgado-roberto/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/delgadoroberto">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -30,87 +36,100 @@ I work on building practical, automation-driven security solutions ranging from 
 
 # 🔍 Focus Areas
 
-- DevSecOps pipelines (CI/CD security integration)
-- Cloud security posture management
-- Infrastructure as Code security (Terraform)
-- Container security and vulnerability scanning
-- Security automation and engineering
-- Secure cloud infrastructure
+- Infrastructure Security
+- Cloud Security Posture Management
+- Secure Cloud Infrastructure
+- DevSecOps & CI/CD Security
+- Infrastructure as Code Security (Terraform)
+- Vulnerability Management & Remediation
+- Security Controls & Compliance
+- Container Security
+- Security Automation
+- Windows/Linux Hardening
 
 ---
 
 # 💻 Tech Stack
 
 ## ☁️ Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LocalStack-121212?style=for-the-badge" />
+
+</p>
 
 ---
 
-## ⚙️ CI/CD & DevSecOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## ⚙️ DevSecOps & Automation
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
+</p>
 
 ---
 
 ## 🔐 Security & AppSec
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CIS_Benchmarks-005A9C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</p>
 
 ---
 
-## 🛡️ Cloud Security
-![Prowler](https://img.shields.io/badge/Prowler-1A1A1A?style=for-the-badge)
-![Defender for Cloud](https://img.shields.io/badge/Microsoft_Defender_for_Cloud-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+# 🚀 Current Projects & Labs
 
-Cloud posture assessment, compliance validation, and security monitoring across Azure environments.
+## Terraform AWS Security Labs
+Security-focused Terraform labs implementing secure S3 configurations, IAM security controls, encryption policies, and infrastructure hardening practices.
 
----
+## DevSecOps Security Pipelines
+Hands-on projects integrating CI/CD security validation, container scanning, dependency analysis, and infrastructure-as-code security testing.
 
-## 🧑‍💻 Automation & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## Cloud Security Labs
+Practical AWS and LocalStack environments focused on cloud hardening, posture validation, and secure infrastructure deployment.
 
----
-
-## 🌐 Frontend & Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Offensive Security Practice
+Controlled labs using Kali Linux and intentionally vulnerable web applications for vulnerability validation and attack simulation exercises.
 
 ---
 
-# 🚀 Current Focus
+# 📜 Certifications
 
-Building hands-on DevSecOps projects integrating:
-
-- CI/CD security
-- Container security scanning
-- Infrastructure as Code security
-- Cloud hardening
-- Security automation
-- Secure development workflows
+- Microsoft Certified (Security & Azure)
+- DevSecOps Fundamentals – Cybrary
 
 ---
 
-# 📌 Featured Project
+# 🌍 Languages
 
-## 🌍 Cybersecurity CV Website
-
-Professional cybersecurity portfolio hosted with GitHub Pages.
-
-### Features
-- Responsive design
-- Dark/Light mode
-- Security-focused frontend
-- Content Security Policy (CSP)
-- GitHub Actions integration
-- ATS-friendly structure
-
-<a href="https://delgadoroberto.github.io/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white">
-</a>
+- Spanish: Native
+- English: Professional Working Proficiency (B1-B2)
 
 ---
 
