@@ -103,7 +103,7 @@ Strong interest in building scalable and practical security solutions that integ
 
 ---
 
-# 🚀 Current Projects & Labs
+# 🚀 Featured Projects & Labs
 
 ## Terraform AWS Security Labs
 Security-focused Terraform labs implementing secure S3 configurations, IAM security controls, encryption policies, and infrastructure hardening practices.
@@ -119,9 +119,18 @@ Controlled labs using Kali Linux and intentionally vulnerable web applications f
 
 ---
 
+# 📂 Featured Repositories
+
+- 🔐 DevSecOps Pipeline Lab
+- ☁️ Terraform AWS Security Labs
+- 🛡️ Linux Security Audit
+- 📊 Log Analyzer for Security Monitoring
+
+---
+
 # 📜 Certifications
 
-- Microsoft Certified (Security & Azure)
+- Microsoft Certified Professional
 - DevSecOps Fundamentals – Cybrary
 
 ---
