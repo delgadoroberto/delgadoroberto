@@ -6,7 +6,7 @@
 
 </p>
 
-Cybersecurity professional with experience supporting enterprise environments across infrastructure security, cloud security posture improvement, vulnerability management, governance, compliance-aligned security controls, and infrastructure hardening.
+Cybersecurity professional with experience supporting enterprise environments across infrastructure security, cloud security posture improvement, vulnerability management, security controls implementation, and infrastructure hardening.
 
 Currently expanding hands-on expertise through personal projects and security labs focused on DevSecOps, CI/CD security, infrastructure-as-code security, cloud hardening, and security automation.
 
