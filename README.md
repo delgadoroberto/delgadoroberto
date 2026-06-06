@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=16C7C7&center=true&vCenter=true&width=900&lines=Senior+Cybersecurity+Consultant;Infrastructure+%26+Cloud+Security;DevSecOps+%26+Security+Automation;Security+Engineering+%26+Vulnerability+Management" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=16C7C7&center=true&vCenter=true&width=900&lines=Senior+Cybersecurity+Consultant;Cloud+%26+Infrastructure+Security;DevSecOps+%26+Security+Automation;Security+Engineering+%26+Vulnerability+Management" />
 
 </p>
 
@@ -121,10 +121,10 @@ Controlled labs using Kali Linux and intentionally vulnerable web applications f
 
 # 📂 Featured Repositories
 
-- 🔐 DevSecOps Pipeline Lab
-- ☁️ Terraform AWS Security Labs
-- 🛡️ Linux Security Audit
-- 📊 Log Analyzer for Security Monitoring
+- 🔐 [DevSecOps Pipeline Lab](https://github.com/delgadoroberto/devsecops-pipeline-lab)
+- ☁️ [Terraform AWS Security Labs](https://github.com/delgadoroberto/terraform-aws-security-labs)
+- 🛡️ [Linux Security Audit](https://github.com/delgadoroberto/linux-security-audit)
+- 📊 [Log Analyzer for Security Monitoring](https://github.com/delgadoroberto/log-analyzer)
 
 ---
 
