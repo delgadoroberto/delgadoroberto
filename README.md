@@ -2,13 +2,13 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=16C7C7&center=true&vCenter=true&width=900&lines=Senior+Cybersecurity+Consultant;Infrastructure+Security+%26+Cloud+Security;DevSecOps+%26+Security+Automation;Security+Governance+%26+Vulnerability+Management" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=16C7C7&center=true&vCenter=true&width=900&lines=Senior+Cybersecurity+Consultant;Infrastructure+%26+Cloud+Security;DevSecOps+%26+Security+Automation;Security+Engineering+%26+Vulnerability+Management" />
 
 </p>
 
 Cybersecurity professional with experience supporting enterprise environments across infrastructure security, cloud security posture improvement, vulnerability management, security controls implementation, and infrastructure hardening.
 
-Currently expanding hands-on expertise through personal projects and security labs focused on DevSecOps, CI/CD security, infrastructure-as-code security, cloud hardening, and security automation.
+Continuously expanding hands-on expertise through personal projects and security labs focused on DevSecOps, CI/CD security, infrastructure-as-code security, cloud hardening, and security automation.
 
 Strong interest in building scalable and practical security solutions that integrate security into modern engineering and cloud environments.
 
