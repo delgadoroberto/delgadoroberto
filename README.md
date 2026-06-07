@@ -6,11 +6,11 @@
 
 </p>
 
-Cybersecurity professional with experience supporting enterprise environments across infrastructure security, cloud security posture improvement, vulnerability management, security controls implementation, and infrastructure hardening.
+Cybersecurity professional with experience supporting enterprise environments across cloud and infrastructure security, vulnerability management, security engineering, and security hardening.
 
-Continuously expanding hands-on expertise through personal projects and security labs focused on DevSecOps, CI/CD security, infrastructure-as-code security, cloud hardening, and security automation.
+Continuously expanding hands-on expertise through personal projects and security labs focused on DevSecOps, cloud security, infrastructure-as-code security, container security, and security automation.
 
-Strong interest in building scalable and practical security solutions that integrate security into modern engineering and cloud environments.
+Strong interest in building scalable security solutions that integrate security into modern engineering, cloud, and infrastructure environments.
 
 ---
 
@@ -36,15 +36,15 @@ Strong interest in building scalable and practical security solutions that integ
 
 # 🔍 Focus Areas
 
+- Cloud Security
 - Infrastructure Security
-- Cloud Security Posture Management
-- Secure Cloud Infrastructure
+- Security Engineering
 - DevSecOps & CI/CD Security
 - Infrastructure as Code Security (Terraform)
 - Vulnerability Management & Remediation
-- Security Controls & Compliance
-- Container Security
 - Security Automation
+- Container Security
+- Secure Cloud Infrastructure
 - Windows/Linux Hardening
 
 ---
@@ -63,6 +63,8 @@ Strong interest in building scalable and practical security solutions that integ
 
 <img src="https://img.shields.io/badge/LocalStack-121212?style=for-the-badge" />
 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
 </p>
 
 ---
@@ -70,6 +72,8 @@ Strong interest in building scalable and practical security solutions that integ
 ## ⚙️ DevSecOps & Automation
 
 <p align="left">
+
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
@@ -85,15 +89,19 @@ Strong interest in building scalable and practical security solutions that integ
 
 ---
 
-## 🔐 Security & AppSec
+## 🔐 Security & Hardening
 
 <p align="left">
 
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Checkov-000000?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tenable_Nessus-00C176?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/CIS_Benchmarks-005A9C?style=for-the-badge" />
 
@@ -106,16 +114,20 @@ Strong interest in building scalable and practical security solutions that integ
 # 🚀 Featured Projects & Labs
 
 ## Terraform AWS Security Labs
-Security-focused Terraform labs implementing secure S3 configurations, IAM security controls, encryption policies, and infrastructure hardening practices.
+
+Security-focused Terraform labs implementing secure AWS configurations, IAM security controls, encryption policies, and infrastructure hardening practices.
 
 ## DevSecOps Security Pipelines
-Hands-on projects integrating CI/CD security validation, container scanning, dependency analysis, and infrastructure-as-code security testing.
+
+Hands-on projects integrating CI/CD security validation, dependency scanning, container security, infrastructure-as-code security testing, and automated security checks.
 
 ## Cloud Security Labs
+
 Practical AWS and LocalStack environments focused on cloud hardening, posture validation, and secure infrastructure deployment.
 
 ## Offensive Security Practice
-Controlled labs using Kali Linux and intentionally vulnerable web applications for vulnerability validation and attack simulation exercises.
+
+Controlled labs using Kali Linux and intentionally vulnerable applications for vulnerability validation and attack simulation exercises.
 
 ---
 
@@ -125,20 +137,6 @@ Controlled labs using Kali Linux and intentionally vulnerable web applications f
 - ☁️ [Terraform AWS Security Labs](https://github.com/delgadoroberto/terraform-aws-security-labs)
 - 🛡️ [Linux Security Audit](https://github.com/delgadoroberto/linux-security-audit)
 - 📊 [Log Analyzer for Security Monitoring](https://github.com/delgadoroberto/log-analyzer)
-
----
-
-# 📜 Certifications
-
-- Microsoft Certified Professional
-- DevSecOps Fundamentals – Cybrary
-
----
-
-# 🌍 Languages
-
-- Spanish: Native
-- English: Professional Working Proficiency (B1-B2)
 
 ---
 
