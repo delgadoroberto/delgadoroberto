@@ -30,13 +30,10 @@ I enjoy building scalable security solutions that integrate security into modern
 
 # 🔍 Focus Areas
 
-- Cloud & Infrastructure Security (Azure & AWS)
+- Cloud Security & Infrastructure as Code (IaC)
 - DevSecOps & CI/CD Security Automation
-- Infrastructure as Code (IaC) Security (Terraform)
-- Vulnerability Management & Remediation (Tenable Nessus)
-- Container & Kubernetes Security (Docker)
-- Security-as-Code & Automated Compliance (CIS Benchmarks)
-- Windows & Linux Hardening
+- Vulnerability Management & Compliance Enforcement
+- System & Workload Hardening
 
 ---
 
