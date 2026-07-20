@@ -6,9 +6,9 @@
 
 Cybersecurity professional with experience supporting enterprise environments across cloud and infrastructure security, vulnerability management, security engineering, and security hardening.
 
-Continuously expanding hands-on expertise through personal projects and security labs focused on DevSecOps, cloud security, infrastructure-as-code security, container security, and security automation.
+My portfolio focuses on practical, production-inspired security laboratories that demonstrate secure engineering practices across DevSecOps, cloud security, Infrastructure as Code, container security, and security automation.
 
-Strong interest in building scalable security solutions that integrate security into modern engineering, cloud, and infrastructure environments.
+I enjoy building scalable security solutions that integrate security into modern software delivery and infrastructure platforms through automation and Security as Code.
 
 ---
 
