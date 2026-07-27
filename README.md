@@ -16,13 +16,13 @@ I enjoy building scalable security solutions that integrate security into modern
 
 <p align="center">
 <a href="https://delgadoroberto.github.io/">
-  <img src="https://img.shields.io/badge/Cybersecurity_CV-0F172A?style=for-the-badge&logo=readme&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity_CV-1F2937?style=for-the-badge&logo=readme&logoColor=white">
 </a>
 <a href="https://github.com/delgadoroberto/delgadoroberto.github.io">
-  <img src="https://img.shields.io/badge/Website_Repository-24292F?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Website_Repository-374151?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/delgado-roberto/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
