@@ -16,7 +16,7 @@ I enjoy building scalable security solutions that integrate security into modern
 
 <p align="center">
 <a href="https://delgadoroberto.github.io/">
-  <img src="https://img.shields.io/badge/Cybersecurity_CV-1F2937?style=for-the-badge&logo=readme&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity_CV-1F2937?style=for-the-badge&logo=githubpages&logoColor=white">
 </a>
 <a href="https://github.com/delgadoroberto/delgadoroberto.github.io">
   <img src="https://img.shields.io/badge/Website_Repository-374151?style=for-the-badge&logo=github&logoColor=white">
