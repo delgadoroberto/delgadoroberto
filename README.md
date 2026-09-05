@@ -97,4 +97,4 @@ This profile repository applies DevSecOps principles to its own deployment. Ever
 
 # 📄 License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the MIT License. See the `LICENSE` file for details.
